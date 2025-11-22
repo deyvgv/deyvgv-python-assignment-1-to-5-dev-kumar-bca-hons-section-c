@@ -1,0 +1,12 @@
+Performance Summary Report
+============================
+
+Top 3 Performers:
+Aarav    90
+Siya     71.5
+Kabir    51.5
+
+Lowest Avg Subject:
+Science
+
+Class Average Marks: 71.00

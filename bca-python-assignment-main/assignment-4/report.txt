@@ -1,0 +1,7 @@
+Simple Air Quality Report
+=========================
+Rows after cleaning: 10
+
+Mean PM2.5: 74.12
+Mean PM10: 113.75
+AQI min/max: 130.00 / 170.00
